@@ -1,2 +1,2 @@
 # Exemplo.AulaGIT
-Aula de Apresentação -Ferramenta GIT
+Aula de Apresentação - Ferramenta GIT
